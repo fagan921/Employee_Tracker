@@ -9,7 +9,6 @@ Contributing
 Tests
 License
 Questions
-
 ⨲ Description
 Employee Tracker is a command-line application for managing a company's employee database.
 
