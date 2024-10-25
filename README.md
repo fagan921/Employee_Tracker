@@ -1,12 +1,37 @@
-# Employee_Tracker
-Employee database tracker CLI
+⨳ Employee Tracker
 
-# 10 SQL: Employee Tracker
+Table of Contents
+Description
+Installation
+Usage
+Languages
+Contributing
+Tests
+License
+Questions
 
-## Your Task
+⨲ Description
+Employee Tracker is a command-line application for managing a company's employee database.
 
-Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called **content management systems (CMS)**. Your assignment this week is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and PostgreSQL.
+⨲ Installation
+The project is installed when JavaScript files are loaded and saved in VSCode. The application runs through PostreSQL and JavaScript in the VSCode platform.
 
-Because this Challenge will require the use of the `Inquirer` package, ensure that you install and use Inquirer version 8.2.4. To do so, use the following command in your project folder: `npm i inquirer@8.2.4`.
+⨲ Usage
+The application can be used track employee.s names, roles, departments and salaries.
 
-Because this application won’t be deployed, you’ll also need to create a walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met. You’ll need to submit a link to the video and add it to the README of your project.
+⨲ Languages
+*TypeScript *JavaScript
+
+⨲ Contributing
+Contributions are welcome: 1. Fork the Repo. 2. Create a new branch (git checkout -b feature-branch). 3. Make your changes. 4. Commit your changes (git commit -m 'added feature'. 5. Push the branch (git push origin feature-branch). 6.Open a pull request.
+
+⨲ Tests
+Tests are run by simply running through the prompt process and checking the results.
+
+⨲ License
+None
+
+﹖ Questions
+GitHub: fagan921@GitHub.com
+
+Email: fagan921@gmail.com
