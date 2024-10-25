@@ -1,0 +1,31 @@
+{
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/inquirer": "^8.2.0",
+    "@types/node": "^16.11.7",
+    "@types/pg": "^8.11.10",
+    "typescript": "^5.6.3"
+  },
+  "name": "main",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "ctable": "^0.0.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "inquirer": "^12.0.0",
+    "install": "^0.13.0",
+    "pg": "^8.13.0"
+  },
+  "description": ""
+}
